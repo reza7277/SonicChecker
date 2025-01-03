@@ -19,22 +19,29 @@
    pip3 install requests rich
    ```
 
-4. **Create and Edit the `wallets.txt` File**  
-   Use `nano` to create the file and add wallet addresses:
+4. **Clone the Script from GitHub**  
+   Use `git` to clone the repository:
+   ```bash
+   git clone https://github.com/reza7277/SonicChecker.git
+   ```
+   Navigate to the cloned directory:
+   ```bash
+   cd SonicChecker
+   ```
+
+5. **Create and Edit the `wallets.txt` File**  
+   Use `nano` to create and edit the `wallets.txt` file:
    ```bash
    nano wallets.txt
    ```
-   
-5. Each line should contain **only the wallet address**, without any additional characters, commas, or spaces. as follows:
-
+   Add wallet addresses (one per line) as follows:
    ```plaintext
    eg_wallet_address_1
    eg_wallet_address_2
    ```
    Save and exit:
-   - Press `CTRL + X` to save.
-   - Press `y` to confirm.
-   - Press `enter` to exit.
+   - Press `CTRL + O`, then `Enter` to save.
+   - Press `CTRL + X` to exit.
 
 6. **Run the Script**  
    Execute the script using Python:
@@ -47,4 +54,7 @@
    ```bash
    cat results.txt
    ```
-   
+
+---
+
+این نسخه شامل کلون کردن اسکریپت از گیت‌هاب است و تمام مراحل لازم برای اجرا را پوشش می‌دهد.
