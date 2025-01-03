@@ -25,24 +25,24 @@
    nano wallets.txt
    ```
    
-   **Each line should contain **only the wallet address**, without any additional characters, commas, or spaces. as follows:
+5. **Each line should contain **only the wallet address**, without any additional characters, commas, or spaces. as follows:
 
    ```plaintext
    eg_wallet_address_1
    eg_wallet_address_2
    ```
    Save and exit:
-   - Press `CTRL + O` to save.
-   - Press `Enter` to confirm.
-   - Press `CTRL + X` to exit.
+   - Press `CTRL + X` to save.
+   - Press `y` to confirm.
+   - Press `enter` to exit.
 
-5. **Run the Script**  
+6. **Run the Script**  
    Execute the script using Python:
    ```bash
    python3 checker.py
    ```
 
-6. **Check the Results**  
+7. **Check the Results**  
    After running, view the output in the `results.txt` file:
    ```bash
    cat results.txt
