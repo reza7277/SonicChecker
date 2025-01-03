@@ -1,7 +1,5 @@
 ![Screenshot 2025-01-03 155345](https://github.com/user-attachments/assets/007c3ada-afa8-40cd-975d-5bc5d9542090)
 
-Here’s the complete set of steps to create and run the script on Ubuntu, finalized:
-
 ---
 
 ### Steps to Run the Script on Ubuntu
@@ -41,7 +39,7 @@ Here’s the complete set of steps to create and run the script on Ubuntu, final
 5. **Run the Script**  
    Execute the script using Python:
    ```bash
-   python3 your_script_name.py
+   python3 checker.py
    ```
 
 6. **Check the Results**  
