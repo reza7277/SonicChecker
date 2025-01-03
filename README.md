@@ -25,7 +25,7 @@
    nano wallets.txt
    ```
    
-5. **Each line should contain **only the wallet address**, without any additional characters, commas, or spaces. as follows:
+5. Each line should contain **only the wallet address**, without any additional characters, commas, or spaces. as follows:
 
    ```plaintext
    eg_wallet_address_1
