@@ -40,8 +40,8 @@
    eg_wallet_address_2
    ```
    Save and exit:
-   - Press `CTRL + O`, then `Enter` to save.
-   - Press `CTRL + X` to exit.
+   - Press `CTRL + X`, then `Y` to save.
+   - Press `Enter` to exit.
 
 6. **Run the Script**  
    Execute the script using Python:
